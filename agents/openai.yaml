@@ -1,0 +1,4 @@
+interface:
+  display_name: "DSH 桌面生图绑定"
+  short_description: "打通 DSH 与桌面 ChatGPT 生图，复用固定聊天及角色参考图"
+  default_prompt: "使用 $dsh-chatgpt-image-skill 检查并打通我的桌面 ChatGPT 生图与 DSH 工具挂载，绑定固定聊天。"

@@ -1,0 +1,11 @@
+{
+  "name": "dsh-chatgpt-image-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "privacy": "node scripts/privacy-scan.mjs"
+  }
+}
